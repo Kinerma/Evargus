@@ -1,0 +1,6 @@
+.information__about {
+    display: flex;
+    gap: 25px;
+    margin: 0;
+    color: #737373;
+}

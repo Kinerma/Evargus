@@ -1,6 +1,22 @@
 @import url(../blocks/root/root.css);
-
+/*Header*/
 @import url(../blocks/header/header.css);
 @import url(../blocks/phone/phone.css);
 @import url(../blocks/phone/__icon/phone__icon.css);
 @import url(../blocks/phone/__text/phone__text.css);
+
+@import url(../blocks/geolocation/geolocation.css);
+@import url(../blocks/geolocation/__text/geolocation__text.css);
+@import url(../blocks/geolocation/__icon/geolocation__icon.css);
+
+@import url(../blocks/instagram/instagram.css);
+@import url(../blocks/instagram/__icon/instagram__icon.css);
+@import url(../blocks/instagram/__text/instagram__text.css);
+/*main*/
+/*information*/
+@import url(../blocks/information/information.css);
+@import url(../blocks/information/__container/information__container.css);
+@import url(../blocks/information/__logo/information__logo.css);
+@import url(../blocks/information/__title/information__title.css);
+@import url(../blocks/information/__about/information__about.css);
+@import url(../blocks/information/__text/information__text.css);
